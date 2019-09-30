@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Violeta Serrano",
+    "subtitulo" : "Designer",
+    "twitter" : "@violetaserrano",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-ej.appspot.com/o/team-2.jpg?alt=media&token=ed814537-1444-466c-9608-ffdecf6f288c"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Johana Franco",
+    "subtitulo" : "Founder / CEO",
+    "twitter" : "@johanafranco",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-ej.appspot.com/o/team-1.jpg?alt=media&token=57acd6a0-3ff6-4894-8a10-228932a4ad6b"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo c",
+    "nombre" : "Javier Serrano",
+    "subtitulo" : "Ingeniero Automatización",
+    "twitter" : "@javierserrano",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-ej.appspot.com/o/team-3.jpg?alt=media&token=081f6e40-42e5-4dff-a8dd-a59dd853f554"
+  } ]
+}
